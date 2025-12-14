@@ -33,3 +33,12 @@ Accuracy is not the only goal in finance; considerations like interpretability, 
 | Interpretability      | Interpretable          | Hard to explain         |
 | Regulatory Compliance | Regulatory-friendly    | Higher compliance risk  |
 | Validation            | Easier validation      | Higher accuracy         |
+
+## Exploratory Data Analysis (EDA)
+
+### Key Insights
+
+1. Transaction amounts are highly skewed, requiring scaling or transformation.
+2. A small number of customers account for a large proportion of transactions.
+3. Certain product categories dominate transaction volume.
+4. Numerical features show limited linear correlation.
